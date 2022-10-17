@@ -1,6 +1,6 @@
 {
   "name": "bernardoalves/ethereum-php",
-  "minimum-stability: "stable",
+  "minimum-stability": "stable",
   "description": "A library integrating Ethereum with typed PHP.",
   "require": {
     "php": ">=7.1",
